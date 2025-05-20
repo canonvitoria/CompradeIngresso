@@ -6,6 +6,9 @@ Aplicação web que simula a compra de ingressos para um evento, controlando em 
 
 O **e-Ticket** é uma simulação de sistema de venda de ingressos, permitindo ao usuário escolher o tipo de ingresso, inserir a quantidade desejada e verificar se ainda há unidades disponíveis. Caso a quantidade solicitada exceda a disponível, o sistema alerta o usuário.
 
+![Uploading image.png…]()
+
+
 ## Funcionalidades
 
 -  Seleção do tipo de ingresso: pista, cadeira superior ou inferior.
